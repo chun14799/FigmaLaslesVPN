@@ -1,0 +1,16 @@
+.network {
+  margin-bottom: 36px;
+  .heading {
+    max-width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  &-img {
+    margin-top: 155px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .network-image {
+    margin-top: 50px;
+  }
+}
